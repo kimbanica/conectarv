@@ -176,6 +176,36 @@ conectarv/
 
 Este projeto é de uso **educacional e não comercial**, podendo ser reutilizado e adaptado mediante citação da fonte:
 
+## Licença
+
+**Código:** Licença MIT  
+Copyright (c) 2025 **Mônica de Souza Oliveira do Nascimento**
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste software e dos arquivos de documentação associados (“Software”),
+para tratar o Software sem restrições, incluindo, sem limitação, os direitos de
+usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender
+cópias do Software, e permitir que pessoas a quem o Software é fornecido o façam,
+sujeito às seguintes condições:
+
+O aviso de copyright acima e este aviso de permissão deverão ser incluídos em
+todas as cópias ou partes substanciais do Software.
+
+O SOFTWARE É FORNECIDO “NO ESTADO EM QUE SE ENCONTRA”, SEM QUALQUER TIPO DE
+GARANTIA, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS
+DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO. EM NENHUMA
+HIPÓTESE OS AUTORES OU DETENTORES DOS DIREITOS SERÃO RESPONSÁVEIS POR QUALQUER
+RECLAMAÇÃO, DANO OU OUTRA RESPONSABILIDADE, SEJA EM AÇÃO CONTRATUAL, DELITO OU
+OUTRA, DECORRENTE DE, DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS
+NEGOCIAÇÕES NO SOFTWARE.
+
+**Assets (mídias & marca):** **Todos os Direitos Reservados**  
+Salvo indicação em contrário, todas as **imagens, vídeos, áudios, banners, logotipos,
+a marca/nome “ConectaRV” e conteúdos didáticos finais** são © 2025 **Mônica de Souza
+Oliveira do Nascimento — Todos os Direitos Reservados**. Para uso público ou
+redistribuição comercial, solicite autorização.
+
+
 > “Projeto ConectaVR — Escola Estadual Luiz Gonzaga de Camargo Fleury – URE Sorocaba – SEDUC-SP.”
 
 ---
